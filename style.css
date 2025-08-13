@@ -151,3 +151,13 @@ margin-top: 50px;
 margin-top: 5px;
 }
  }
+ .rodape{
+  height: 65px;
+  margin-top: 30px;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(150, 148, 148);
+
+ }
